@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    border: inline space 100px;
+    border: 3px solid;
+    border-bottom-left-radius: 10px;
+    text-indent: auto;
+    border-radius: 30px;
+    border-left-width: 30px;
+    border-right-width: 30px;
+    /* margin-bottom: 100px; */
+    width: 75%;
+    /* margin-left: auto; */
+    /* margin-right: auto ; */
+    margin: auto;
+    padding-bottom: 50px;
+    line-height: 25px;
+    font-size: 20px;
+    
+    
+}
+   
+.container{
+    margin-top: auto;
+    margin-bottom: auto;
+    block-size: 70%;
+
+}
+.abc{
+    padding-top: 20px;
+}
+.a{
+    padding-top: 20px;
+}
+.A{
+    padding-top:20px ;
+}
