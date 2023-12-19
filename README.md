@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript,Reactjs, Bootstrap**
 
-- 📫 How to reach me **Sudharsan792001@gmail.com**
+- 📫 How to reach me **Sudharsannagaraj07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
